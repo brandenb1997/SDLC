@@ -1,1 +1,6 @@
 # SDLC
+Branden Boehnke
+
+I interpret user needs and implement them into a program by collecting them in user stories and prioritize them. User stories are created based off user needs and give an idea of what the client needs in their program. Creating these user stories help build a framework for each need and how they can be prioritized or combined with others into a bigger, more encompassing implementation.
+I approach developing programs by first breaking down the focus of the program and answering the question of why this program is needed. Understanding the why can help with further understanding the need, current limitations, and overall goal of the program. The agile processes I hope to incorporate in my future development would be Sprint Planning, and Sprint Retrospective. Both of these processes help with the current and future development techniques and improvements.
+What it means to be a good team member in software development is to openly communicate and collaborate with other team members. The team needs to be able to communicate effectively in order to reach their goal and collaboration is the physical response to that. Being on a team and seeing eye to eye with other team members may not always be the easiest thing, but keeping the lines of communication open can help out tremendously.
